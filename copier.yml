@@ -1,0 +1,4 @@
+use_precommit:
+    type: bool
+    default: false
+    help: Do you want to use pre-commit?
